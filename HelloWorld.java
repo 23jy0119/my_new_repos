@@ -1,2 +1,2 @@
 public class HelloWorld{
-  public 
+  public static void main
